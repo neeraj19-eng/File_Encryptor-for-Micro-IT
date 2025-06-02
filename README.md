@@ -1,5 +1,5 @@
 
-# 🔐 File Encryption/Decryption Tool
+# 🔐 File Encryption/Decryption Tool for Micro IT
 
 A secure Python-based tool that encrypts and decrypts files using password-protected AES encryption. It ensures the confidentiality of sensitive information, providing a simple CLI for secure file management.
 
@@ -26,7 +26,7 @@ A secure Python-based tool that encrypts and decrypts files using password-prote
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/file-encryptor.git
+   git clone https://github.com/neeraj19-eng/File_Encryptor-for-Micro-IT.git
    cd file-encryptor
    ```
 
